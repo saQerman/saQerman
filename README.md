@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saQerman
-- 👀 I’m interested in programming and for earn money
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JAVA/QA/PM
 - 💞️ I’m looking to collaborate on company 
 - 📫 How to reach me - dominus19022004@gmail.com
 
