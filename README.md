@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saQerman
+- 👋 Hi, I’m Dom
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA/QA/PM
 - 💞️ I’m looking to collaborate on company 
